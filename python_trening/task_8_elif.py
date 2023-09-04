@@ -10,6 +10,9 @@ elif not permit_print:
 
 
 
+
+
+
     Задача с бакалаврами
 if x >=1 and x<=4
 

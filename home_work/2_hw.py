@@ -17,13 +17,12 @@ def task_1(a: int, b: float, c: str, d: list, e: bool):
     return a, b, c, d, e
 
 
-def task_2(a = [1, 2, 3, 5, 8, 13, 21]) -> list:
-    print(“a=[0:3] = “ , a[0:3])
+def task_2():
+    print("a=[0:3] = ", a[0:3])
     return (a = [1, 2, 3, 5, 8, 13, 21])
-    print task_2
-
+task_2()
 
 
 def my_function(number1: int, number2: int) -> int:
-    number2: int) -> int: \
-    result = number1 + number2
+    return number1 ** 2
+my_function()

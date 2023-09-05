@@ -26,3 +26,5 @@ task_2()
 def my_function(number1: int, number2: int) -> int:
     return number1 ** 2
 my_function()
+
+

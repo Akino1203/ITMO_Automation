@@ -18,13 +18,12 @@ def task_1(a: int, b: float, c: str, d: list, e: bool):
 
 
 def task_2():
+    a = [1, 2, 3, 5, 8, 13, 21]
     print("a=[0:3] = ", a[0:3])
-    return (a = [1, 2, 3, 5, 8, 13, 21])
+
 task_2()
 
 
-def my_function(number1: int, number2: int) -> int:
+def my_function(number1: int) -> int:
     return number1 ** 2
 my_function()
-
-

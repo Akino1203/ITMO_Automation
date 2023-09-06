@@ -6,6 +6,6 @@ else:
 
 
 If str_1 in str_2:
-        print('ДА')
+    print('ДА')
 else:
-        print('НЕТ')
+    print('НЕТ')

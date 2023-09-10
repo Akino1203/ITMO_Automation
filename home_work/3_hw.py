@@ -1,6 +1,6 @@
 # Задача 1
 
-x, y = 4, 5#int(input()), int(input())
+x, y = 4, 5
 if x > y:
     print('x')
 else:

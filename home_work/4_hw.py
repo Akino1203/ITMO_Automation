@@ -108,3 +108,13 @@ class Button:
 Text_Box = Button('Text Box', 'Кнопка', None)
 
 print(Text_Box.click())
+
+# Задача 4
+class Car:
+    def __init__(self, c, t, y):
+        self.c = c
+        self.t = t
+        self.y = y
+
+    def start(self):
+        print('c', 't', 'y')
